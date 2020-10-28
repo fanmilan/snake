@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5deb5a88-faa0-414b-ae97-a4d3e02af4bd" name="Default Changelist" comment="assasdsa">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5deb5a88-faa0-414b-ae97-a4d3e02af4bd" name="Default Changelist" comment="Hello">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603873167182</updated>
       <workItem from="1603873168571" duration="11621000" />
-      <workItem from="1603893494843" duration="1805000" />
+      <workItem from="1603893494843" duration="2742000" />
     </task>
     <task id="LOCAL-00001" summary="assasdsa">
       <created>1603895023490</created>
@@ -65,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603895023491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello">
+      <created>1603895395950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603895395950</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hello">
+      <created>1603895548986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603895548986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +98,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="assasdsa" />
-    <option name="LAST_COMMIT_MESSAGE" value="assasdsa" />
+    <MESSAGE value="Hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1080" y="391" key="Github.CreatePullRequestDialog" timestamp="1603894996022">
@@ -103,10 +118,10 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="781" y="169" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1603894899094" />
-    <state x="872" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603895027729">
+    <state x="872" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603895634580">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state x="872" y="257" key="Vcs.Push.Dialog.v2/0.0.2560.1050@0.0.2560.1050" timestamp="1603895027729" />
+    <state x="872" y="257" key="Vcs.Push.Dialog.v2/0.0.2560.1050@0.0.2560.1050" timestamp="1603895634580" />
     <state x="1087" y="258" key="VcsDiffUtil.ChangesDialog" timestamp="1603894924535">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
