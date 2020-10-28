@@ -1,0 +1,56 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+body{
+    height:100vh;
+    width:100vw;
+}
+
+.game-field-container{
+    width:1000px;
+    height:1000px;
+    margin:auto;
+}
+
+
+.game-field{
+
+}
+
+.game-field__row{
+    clear:both;
+    float:none;
+}
+
+
+
+.game-field__item{
+    border-left:1px dotted #696969;
+    border-top:1px dotted #696969;
+    width:35px;
+    height:35px;
+    float:left;
+}
+
+
+
+.game-field__row:last-of-type .game-field__item{
+    border-bottom:1px dotted #696969;
+}
+
+.game-field__item:last-of-type{
+    border-right:1px dotted #696969;
+}
+
+
+.food{
+    background:red;
+}
+
+.snake{
+    background:green;
+    border:green;
+}
