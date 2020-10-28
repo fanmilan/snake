@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5deb5a88-faa0-414b-ae97-a4d3e02af4bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5deb5a88-faa0-414b-ae97-a4d3e02af4bd" name="Default Changelist" comment="assasdsa">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +56,16 @@
       <option name="presentableId" value="Default" />
       <updated>1603873167182</updated>
       <workItem from="1603873168571" duration="11621000" />
-      <workItem from="1603893494843" duration="1404000" />
+      <workItem from="1603893494843" duration="1805000" />
     </task>
+    <task id="LOCAL-00001" summary="assasdsa">
+      <created>1603895023490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603895023491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,13 +83,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="assasdsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="assasdsa" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1158" y="422" key="Github.ShareDialog" timestamp="1603894787878">
+    <state x="1080" y="391" key="Github.CreatePullRequestDialog" timestamp="1603894996022">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state x="1158" y="422" key="Github.ShareDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603894787878" />
+    <state x="1080" y="391" key="Github.CreatePullRequestDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603894996022" />
+    <state x="1158" y="422" key="Github.ShareDialog" timestamp="1603894959750">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1158" y="422" key="Github.ShareDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603894959750" />
     <state x="1089" y="222" key="Github.UntrackedFilesDialog" timestamp="1603894799867">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
@@ -91,6 +103,14 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="781" y="169" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1603894899094" />
+    <state x="872" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603895027729">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="872" y="257" key="Vcs.Push.Dialog.v2/0.0.2560.1050@0.0.2560.1050" timestamp="1603895027729" />
+    <state x="1087" y="258" key="VcsDiffUtil.ChangesDialog" timestamp="1603894924535">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1087" y="258" key="VcsDiffUtil.ChangesDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603894924535" />
     <state x="1097" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603893659656">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
