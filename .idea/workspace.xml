@@ -11,14 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5deb5a88-faa0-414b-ae97-a4d3e02af4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/snake.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603873167182</updated>
       <workItem from="1603873168571" duration="11621000" />
-      <workItem from="1603893494843" duration="638000" />
+      <workItem from="1603893494843" duration="1404000" />
     </task>
     <servers />
   </component>
@@ -85,10 +79,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="781" y="169" key="SettingsEditor" timestamp="1603893650879">
+    <state x="1158" y="422" key="Github.ShareDialog" timestamp="1603894787878">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state x="781" y="169" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1603893650879" />
+    <state x="1158" y="422" key="Github.ShareDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603894787878" />
+    <state x="1089" y="222" key="Github.UntrackedFilesDialog" timestamp="1603894799867">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1089" y="222" key="Github.UntrackedFilesDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603894799867" />
+    <state x="781" y="169" key="SettingsEditor" timestamp="1603894899094">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="781" y="169" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1603894899094" />
     <state x="1097" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603893659656">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
